@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6d59755-86df-474c-a7e1-4726e7d7db96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ayush-sharma-21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ayush-sharma-21/Java-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;73de9473-64ac-4ae2-9d99-dbe0473d7f81&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_462/Contents/Home/src.zip!/java/util/AbstractList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_462/Contents/Home/src.zip!/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_462/Contents/Home/src.zip!/java/util/Arrays.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_462/Contents/Home/src.zip!/java/util/Collections.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_462/Contents/Home/src.zip!/java/util/Comparator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_462/Contents/Home/src.zip!/java/util/stream/DoubleStream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="34j6I1ppaAGmE2nYNufUGJKR0JY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arrays.executor": "Run",
+    "Application.BuilderDesignPattern (1).executor": "Run",
+    "Application.BuilderDesignPattern (2).executor": "Run",
+    "Application.BuilderDesignPattern.executor": "Run",
+    "Application.CountPairsWhoseSumIsLessThanTarget.executor": "Debug",
+    "Application.DecoratorDesignPattern.executor": "Run",
+    "Application.FactoryDesignPattern.executor": "Run",
+    "Application.FindSecondLargestNumber.executor": "Run",
+    "Application.IndexOfTheFirstOccurrence.executor": "Run",
+    "Application.LengthOfTheLastWord.executor": "Run",
+    "Application.LinkedList.executor": "Debug",
+    "Application.LongestCommonPrefix.executor": "Run",
+    "Application.MaxSubStringOfDistinctStart.executor": "Run",
+    "Application.ReverseCharacterArray.executor": "Run",
+    "Application.ReverseStringPrefix.executor": "Run",
+    "Application.RomanToInt.executor": "Run",
+    "Application.RotationOfArraysByKSteps.executor": "Run",
+    "Application.StrategyDesignPattern.executor": "Run",
+    "Application.ValidPalindrome.executor": "Debug",
+    "Application.ValidParentheses.executor": "Run",
+    "JUnit.Lecture1.declarativeApproachUsingStreams.executor": "Run",
+    "JUnit.Lecture1.executor": "Run",
+    "JUnit.Lecture1.imperativeApproach.executor": "Run",
+    "JUnit.Lecture10.withFlatMap.executor": "Run",
+    "JUnit.Lecture11.joiningStringsWithStream.executor": "Run",
+    "JUnit.Lecture2.range.executor": "Run",
+    "JUnit.Lecture2.rangeIteratingLists.executor": "Run",
+    "JUnit.Lecture3.max.executor": "Run",
+    "JUnit.Lecture3.min.executor": "Run",
+    "JUnit.Lecture4.distinct.executor": "Run",
+    "JUnit.Lecture4.distinctWithSet.executor": "Run",
+    "JUnit.Lecture5.averageCarPrice.executor": "Run",
+    "JUnit.Lecture5.ourFirstMapping.executor": "Run",
+    "JUnit.Lecture5.understandingFilter.executor": "Run",
+    "JUnit.Lecture6.findAny.executor": "Run",
+    "JUnit.Lecture6.findFirst.executor": "Run",
+    "JUnit.Lecture7.average.executor": "Run",
+    "JUnit.Lecture7.count.executor": "Run",
+    "JUnit.Lecture7.max.executor": "Run",
+    "JUnit.Lecture7.min.executor": "Run",
+    "JUnit.Lecture7.statistics.executor": "Run",
+    "JUnit.Lecture8.groupingAndCounting.executor": "Run",
+    "JUnit.Lecture8.simpleGrouping.executor": "Run",
+    "JUnit.Lecture9.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CountPairsWhoseSumIsLessThanTarget">
+    <configuration name="CountPairsWhoseSumIsLessThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.string.CountPairsWhoseSumIsLessThanTarget" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexOfTheFirstOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.string.IndexOfTheFirstOccurrence" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubStringOfDistinctStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.string.MaxSubStringOfDistinctStart" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseCharacterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.string.ReverseCharacterArray" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.string.ReverseStringPrefix" />
+      <module name="Java_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountPairsWhoseSumIsLessThanTarget" />
+        <item itemvalue="Application.ReverseStringPrefix" />
+        <item itemvalue="Application.MaxSubStringOfDistinctStart" />
+        <item itemvalue="Application.ReverseCharacterArray" />
+        <item itemvalue="Application.IndexOfTheFirstOccurrence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d59755-86df-474c-a7e1-4726e7d7db96" name="Changes" comment="" />
+      <created>1761714550540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761714550540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/stringQuestion/ValidPalindrome.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/learning/dataStructures/LinkedList.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/learning/dataStructures/LinkedList.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/string/ReverseCharacterArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/string/CountPairsWhoseSumIsLessThanTarget.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
